@@ -17,5 +17,16 @@ A Simple Arduino - based hydration remainder that monitors temperature and humid
 - button debounce acknowledgement
 - Easy to modify
 
+##Limitations
+- sensors which are used here are won't measure accurate measurements 
+- Fixed bottle size and radius required
+- This system provides local remainders only and does not send notifications to a mobile device
+
+##Future Improvements
+- ESP32 or NodeMCU ESP8266  for mobile integration
+- supportive configuration of bottle
+- data logging to the cloud for hydration tracking
+
+
 ##Author -
 Subhani Mahmad
