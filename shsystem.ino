@@ -62,7 +62,7 @@ void loop() {
   {
     digitalWrite(led_remainder,HIGH);
     digitalWrite(buzzer_remainder,HIGH);
-    Serial.println("\nwater thaagu bey !!\n");
+    Serial.println("\nDude! have some water !!\n");
     digitalWrite(led_remainder,LOW);
     digitalWrite(buzzer_remainder,LOW);
     last_time_drank = millis();
