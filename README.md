@@ -17,5 +17,5 @@ A Simple Arduino - based hydration remainder that monitors temperature and humid
 - button debounce acknowledgement
 - Easy to modify
 
-##Author
+##Author -
 Subhani Mahmad
